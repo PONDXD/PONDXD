@@ -2,4 +2,4 @@
 
 ## Computer science [Kasetsart University]
 
-[Mypic](./img/)
+[Mypic](./img/S__79609858.jpg)
