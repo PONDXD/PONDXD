@@ -1,3 +1,3 @@
 ## Hi,I'm Phakkawat Jitponsup
 
-##Computer science [Kasetsart University]
+## Computer science [Kasetsart University]
