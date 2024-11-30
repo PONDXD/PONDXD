@@ -2,17 +2,8 @@
 
 
 
-<script src="https://cdn.lordicon.com/lordicon.js"></script>
 
-<lord-icon
-    src="https://cdn.lordicon.com/lewtedlh.json"
-    trigger="hover"
-    stroke="light"
-    state="hover-pinch"
-    colors="primary:#3080e8,secondary:#b4b4b4"
-    style="width:250px;height:250px">
-</lord-icon>
 <div id="header" aling="center">
-  <img src="">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-photos&psig=AOvVaw2r_ROrMyllXQ7niIN-mow3&ust=1733063815564000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCgufqjhIoDFQAAAAAdAAAAABAE">
 </div>
 
