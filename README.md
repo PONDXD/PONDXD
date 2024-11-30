@@ -2,4 +2,4 @@
 
 ## Computer science [Kasetsart University]
 
-[pic](./img/S__79609858.jpg)
+![pic](./img/S__79609858.jpg)
